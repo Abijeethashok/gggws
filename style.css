@@ -1,0 +1,24 @@
+ h1{color :blue} 
+ *{border:solid}
+
+ .hedder{
+     background-color : red;
+     display : flex;
+     justify-content: space-between;
+     
+     
+    
+ }
+ .grid{
+     display : flex ;
+     flex-wrap: wrap;
+     justify-content:space-evenly ;
+ }
+ 
+ .img{
+    display : flex ;
+    justify-content: flex-end;
+ }
+ p,h2{
+     text-align: center;
+ }
